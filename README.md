@@ -30,7 +30,20 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
 ```
 
-When is change needed:
+> When is change needed: `$ git commit --amend --reset-author`
+
+### git init
+
+Create new repo:
+
 ```
-$ git commit --amend --reset-author
+git init
+```
+
+### git remote
+
+Add remote repo:
+```
+git remote add origin https://github.com/lubkli/repo.git
+git push -u origin master
 ```
