@@ -24,7 +24,13 @@ $ git commit -m "Add .gitignore file"
 
 ### git config
 
+Set user name and email:
 ```
 $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
+```
+
+When is change needed:
+```
+$ git commit --amend --reset-author
 ```
