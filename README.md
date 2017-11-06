@@ -18,6 +18,13 @@ Make git ignore file:
 
 ```
 $ git ignore objective-c,macos >.gitignore
-git add .gitignore
-git commit -m "Add .gitignore file"
+$ git add .gitignore
+$ git commit -m "Add .gitignore file"
+```
+
+### git config
+
+```
+$ git config --global user.name "Your Name"
+$ git config --global user.email you@example.com
 ```
