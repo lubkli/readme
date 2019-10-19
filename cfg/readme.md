@@ -1,2 +1,2 @@
 
-(vimrc)[.vimrc] ... VIM configuration file
+[vimrc](Xvimrc) ... VIM configuration file
