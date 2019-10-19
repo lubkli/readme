@@ -1,6 +1,6 @@
-# MacOS Terminal
+## MacOS Terminal
 
-## Set key repeat intervals
+### Set key repeat intervals
 
 ```
 defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
