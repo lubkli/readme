@@ -1,2 +1,2 @@
 
-  * mc ... Midnight Commander compiled for MacOS Catalina
+  * [mc](mc.zip) ... Midnight Commander compiled for MacOS Catalina
